@@ -34,4 +34,4 @@ Used : Twitter Bootstrap, Jquery, HTML5, CSS3
 8. Create Page heading using Bootstrap class. 
 ```
 
-See [Our Menu](https://sharongt.github.io/jhuHtmlCssJsModule3/)
+Link to created page: [Our Menu](https://sharongt.github.io/jhuHtmlCssJsModule3/)
