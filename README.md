@@ -1,5 +1,3 @@
-# jhuHtmlCssJsModule3
-
 ### Readme (In progress)
 
 Johns Hopkins Coursera
