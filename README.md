@@ -21,16 +21,12 @@ Used : Twitter Bootstrap, Jquery, HTML5, CSS3
 ```sh
 1. Host assignment on Github pages i.e. GitHub.io domain name. 
 2. Create a page following mockup illustrations of responsive design for 3 devices desktop, tablet and mobile. Mobile view includes a dropdown tab. 
-•	 
-•	
-•	
-
 3. Page must include a CSS file placed in CSS folder under solution container folder. Inline styles are not allowed. 
 4. Use Twitter Bootstrap Css Framework as much as possible. 
 5. Define desktop, tablet and mobile views in terms of Bootstrap CSS class prefixes - i.e. md, sm, xs. 
 5. Create a navbar that scrolls away together with the page. 
 6.Create a navbrand aligned to the left side of the navbar.
-7. Create menu button with a dropdown menu of 3 items. The dropdown menu button should only visible when the browser is narrow enough to be in mobile view.
+7. Create menu button, once clicked will provide a dropdown menu of 3 items. The dropdown menu button should only visible when the browser is narrow enough to be in mobile view.It takes up the entire width of the browser(minus some margins). The label of each menu item should be centered using a bootstrap class. 
 8. Create Page heading using Bootstrap class. 
 ```
 
