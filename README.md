@@ -30,7 +30,7 @@ Used : Twitter Bootstrap, Jquery, HTML5, CSS3
 5. Define desktop, tablet and mobile views in terms of Bootstrap CSS class prefixes - i.e. md, sm, xs. 
 5. Create a navbar that scrolls away together with the page. 
 6.Create a navbrand aligned to the left side of the navbar.
-7. Create menu button with a dropdown menu of 3 items. 
+7. Create menu button with a dropdown menu of 3 items. The dropdown menu button should only visible when the browser is narrow enough to be in mobile view.
 8. Create Page heading using Bootstrap class. 
 ```
 
