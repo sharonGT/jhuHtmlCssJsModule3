@@ -1,4 +1,4 @@
-### Readme (In progress)
+### Readme
 
 Johns Hopkins Coursera
 Module 3 coding assignment 
@@ -7,12 +7,12 @@ HTML CSS and Javascript for Web developers
 Instructor : Yaakov Chaikin
 
 > Lessons Brief: 
-Go over basics of interacting with a client when managing a web site project and then go visit a real client at their place of business (a Chinese restaurant), help the owner figure out what she wants in a site, and get acquainted with the restaurant in general. We'll spend the rest of the module building a real web site for this business from scratch and you'll get to sit next to me and watch as the site comes together.
+Go over basics of interacting with a client when managing a web site project. Then, go visit a real client at their place of business (a Chinese restaurant), help the owner figure out what she wants in a website, and get acquainted with the restaurant in general. Then, build a real web site for this business from scratch. 
 
 Number of lessons: 18
 Number of practice quiz: 5
 
-> Features learnt : Navbar Header, Button (collapsible), Nav Menu Buttons, Navbar layout, text and dropdown menus, Jumbotron, Navigation tiles, footer, Menu Categories, Single Menu Category Page, test mobile version on real phone, 
+> Features learnt : Navbar Header, Button (collapsible), Nav Menu Buttons, Navbar layout, text and dropdown menus, Jumbotron, Navigation tiles, footer, Menu Categories, Single Menu Category Page, test mobile version on real phone. 
 
 
 Used : Twitter Bootstrap, Jquery, HTML5, CSS3
